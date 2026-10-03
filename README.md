@@ -1,0 +1,2 @@
+# Jalgame
+galgame by JAVA！！！
