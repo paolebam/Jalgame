@@ -1,0 +1,179 @@
+自定义软件共享许可证 v1.0
+（非商业转售 · 游戏商用例外 · 须署名）
+LAKMUI
+Copyright © 2026 <PaoLebam> <2823659716>
+获取、下载、复制、修改或使用本软件，即表示接受本许可证全部条款。
+如不同意本许可证任何条款，请勿获取、下载或使用本软件。
+
+---
+
+第一条 定义
+
+1.1 本软件：指本仓库发布或附带的全部源代码、构建脚本、
+    配置模板、资源文件及构建产物。
+
+1.2 未实质修改版本：指仅改变本软件的名称、图标、界面文案、
+    配置文件、资源目录、打包方式等外观或部署属性，而核心功能
+    代码、核心算法、程序架构未发生实质性改变的版本。
+    判断以功能实质为准，不以代码文字差异为准。
+
+1.3 游戏：指以娱乐互动为目的的数字作品，包括但不限于单机游戏、
+    网络游戏、移动游戏、小程序游戏及含游戏功能的应用程序。
+    将本软件单独提取并作为独立软件出售的，不属于游戏。
+
+1.4 转售：指以直接或间接方式获取金钱或其他对价，包括但不限于
+    销售、订阅、付费下载、收取授权费、会员解锁，以及以展示本软件
+    本体或其主要功能为核心的广告变现。
+
+第二条 授权授予
+
+在遵守本许可证的前提下，版权人授予任何个人或组织一项全球、
+免费、非独占的许可，可进行：
+
+2.1 使用、复制、编译本软件；
+2.2 修改、改进、开发衍生版本；
+2.3 以任何媒介发布、分发本软件及衍生版本，包括源代码形式
+    与二进制形式。
+
+第三条 禁止转售本软件
+
+3.1 不得将本软件或未实质修改版本，作为独立软件产品、独立插件、
+    独立组件或独立工具进行转售。
+3.2 不得将本软件的源代码包单独出售、转售、有偿提供下载，
+    或作为付费内容的一部分。
+3.3 不得以 SaaS、云服务、API 等形式对本软件本体直接收费。
+
+第四条 游戏商用例外
+
+4.1 尽管有第三条规定，允许将本软件作为游戏引擎、开发工具、
+    库、代码片段、资源引用等形式集成至游戏中，包括使用
+    未经实质修改的本软件副本。
+4.2 对包含本软件的游戏产品进行商业发行、销售、内购、广告变现
+    或其他商业利用，无需另行取得版权人授权，无需支付版税。
+4.3 本条仅适用于本软件与游戏内容、游戏代码、游戏资源结合后
+    作为整体游戏产品分发的情形。
+    将本软件单独提取、单独分发、单独出售的行为，仍受第三条限制。
+    以“游戏”名义单独出售未实质修改版本的，仍视为第三条
+    禁止的转售。
+
+第五条 修改与再发布义务
+
+任何修改、衍生版本或包含本软件的产品的再发布，必须：
+
+5.1 保留本许可证全文及原版权声明，不得修改或删除其中作者信息。
+5.2 在 README、文档或任何随附书面材料的显著位置，标明原作者
+    <你的姓名或组织>、原项目名称 <项目名> 及原项目地址
+    <项目地址>。
+5.3 若以游戏形式发布，应在游戏 Credits、关于页面或启动界面
+    择一标明原作者 <你的姓名或组织> 及原项目名称 <项目名>。
+5.4 如为修改版本，应注明修改者名称、修改日期及修改内容概要。
+5.5 不得虚假陈述本软件为修改者独立原创，不得暗示原作者认可
+    或参与该修改版本。
+
+第六条 违约与终止
+
+6.1 违反第三条或第五条的，本许可证授予的许可自动终止。
+6.2 许可终止后，违约方应立即停止使用、复制、传播本软件及
+    衍生版本，并尽合理努力撤回已发出的传播行为。
+6.3 违约方纠正违约行为并满足第五条全部义务后，可向版权人
+    书面申请恢复授权，是否恢复由版权人自行决定。
+6.4 许可终止不影响版权人就违约行为主张损害赔偿、停止侵权
+    或其他法律责任。
+
+第七条 免责声明与责任限制
+
+7.1 本软件按“现状”提供，版权人不对本软件的准确性、可用性、
+    完整性、性能或针对特定用途的适用性作任何明示或暗示保证。
+7.2 除法律不得排除的情形外，版权人不承担因使用本软件产生的
+    任何直接、间接、偶然、特殊或衍生损失，包括但不限于
+    利润损失、数据丢失、商誉损失或其他商业损害。
+
+第八条 第三方组件
+
+8.1 本软件可能包含第三方代码、库或资源，第三方组件按其原始
+    许可证或声明条款执行。
+8.2 若第三方许可证与本许可证冲突，以第三方原始许可证为准；
+    第三方许可证未授予的权利，本许可证亦不授予。
+
+第九条 适用法律与争议解决
+
+9.1 本许可证适用中华人民共和国法律。
+9.2 因本许可证产生的争议，双方应先友好协商；协商不成的，
+    由版权人住所地有管辖权的人民法院管辖。
+9.3 若本许可证任何条款被认定为无效或不可执行，其余条款
+    继续有效；无效条款应在法律允许的最小范围内调整。
+
+第十条 其他
+
+10.1 版权人保留未在本许可证中明确授予的全部权利。
+10.2 本许可证取代此前就本软件达成的任何口头或书面约定。
+10.3 版权人为特定用户或用途另行书面签署的条款，优先于本许可证
+    对应条款。
+Article 1 – Definitions
+
+1.1 "Software" means all source code, build scripts, configuration templates, resource files, and build artifacts published in or accompanying this repository.
+
+1.2 "Substantially Unmodified Version" means a version that only changes the Software's name, icon, UI copy, configuration files, resource directories, packaging style, or other appearance or deployment attributes, while the core functional code, core algorithms, and program architecture remain substantially unchanged. The determination shall be based on functional substance rather than textual differences in code.
+
+1.3 "Game" means a digital work created for entertainment and interaction, including but not limited to single-player games, online games, mobile games, mini-program games, and applications with gaming functions. The Software extracted separately and sold as standalone software shall not be deemed a Game.
+
+1.4 "Resale" means obtaining money or other consideration directly or indirectly, including but not limited to selling, subscription, paid download, charging license fees, member unlocking, and advertising monetization centered on displaying the Software itself or its primary functions.
+
+Article 2 – License Grant
+
+Subject to compliance with this License, the Licensor grants any individual or organization a worldwide, free, non-exclusive license to:
+
+2.1 use, copy, and compile the Software;
+2.2 modify, improve, and develop derivative versions;
+2.3 publish and distribute the Software and derivative versions by any medium, in both source code and binary forms.
+
+Article 3 – Prohibition on Resale of the Software
+
+3.1 The Software or any Substantially Unmodified Version shall not be resold as a standalone software product, standalone plug-in, standalone component, or standalone tool.
+3.2 The source code package of the Software shall not be sold, resold, or provided for paid download separately, or as part of paid content.
+3.3 The Software itself shall not be directly charged in the form of SaaS, cloud services, API, or similar services.
+
+Article 4 – Commercial Game Exception
+
+4.1 Notwithstanding Article 3, the Software may be integrated into a Game as a game engine, development tool, library, code snippet, resource reference, or other forms, including the use of a Substantially Unmodified copy of the Software.
+4.2 Commercial release, sale, in-app purchase, advertising monetization, or other commercial exploitation of a Game product that includes the Software may be carried out without further authorization from the Licensor and without payment of royalties.
+4.3 This Article applies only when the Software is combined with game content, game code, and game resources and distributed as an integrated Game product. Extracting, distributing, or selling the Software separately remains subject to Article 3. Selling a Substantially Unmodified Version in the name of a "Game" shall still be deemed resale prohibited under Article 3.
+
+Article 5 – Obligations for Modification and Redistribution
+
+Any redistribution of a modification, derivative version, or product containing the Software must:
+
+5.1 retain the full text of this License and the original copyright notice, without altering or deleting the author information;
+5.2 clearly indicate the original author <Your Name or Organization>, the original project name <Project Name>, and the original project URL <Project URL> in a prominent position in the README, documentation, or any accompanying written materials;
+5.3 if distributed as a Game, indicate the original author <Your Name or Organization> and the original project name <Project Name> in at least one of the game Credits, About page, or startup screen;
+5.4 if it is a modified version, state the modifier's name, modification date, and a summary of the changes;
+5.5 not falsely state that the Software is the original independent creation of the modifier, nor imply that the original author endorses or participates in such modified version.
+
+Article 6 – Breach and Termination
+
+6.1 If Article 3 or Article 5 is violated, the license granted under this License shall terminate automatically.
+6.2 Upon termination, the breaching party shall immediately cease using, copying, and distributing the Software and derivative versions, and make reasonable efforts to withdraw any distribution already made.
+6.3 After the breaching party remedies the breach and satisfies all obligations under Article 5, it may apply in writing to the Licensor for reinstatement of the license. Whether to reinstate shall be at the Licensor's sole discretion.
+6.4 Termination of the license does not affect the Licensor's right to claim damages, injunctive relief, or other legal liability for the breach.
+
+Article 7 – Disclaimer of Warranty and Limitation of Liability
+
+7.1 The Software is provided "AS IS". The Licensor makes no express or implied warranties of any kind regarding the accuracy, availability, completeness, performance, or fitness for a particular purpose of the Software.
+7.2 To the extent not prohibited by law, the Licensor shall not be liable for any direct, indirect, incidental, special, or consequential damages arising from the use of the Software, including but not limited to loss of profits, loss of data, loss of goodwill, or other commercial damages.
+
+Article 8 – Third-Party Components
+
+8.1 The Software may contain third-party code, libraries, or resources. Third-party components are governed by their original licenses or declarations.
+8.2 In the event of a conflict between a third-party license and this License, the original third-party license shall prevail. Rights not granted by a third-party license shall not be deemed granted by this License.
+
+Article 9 – Governing Law and Dispute Resolution
+
+9.1 This License shall be governed by the laws of the People's Republic of China.
+9.2 Any dispute arising out of or in connection with this License shall first be resolved through friendly negotiation. If negotiation fails, the dispute shall be submitted to the competent court of the place where the Licensor is domiciled.
+9.3 If any provision of this License is held to be invalid or unenforceable, the remaining provisions shall continue in full force and effect. The invalid provision shall be adjusted to the minimum extent permitted by law.
+
+Article 10 – Miscellaneous
+
+10.1 The Licensor reserves all rights not expressly granted in this License.
+10.2 This License supersedes any prior oral or written agreements relating to the Software.
+10.3 Terms separately executed in writing by the Licensor for specific users or uses shall prevail over the corresponding terms of this License.
